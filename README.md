@@ -94,7 +94,7 @@ Our solution integrates real-time hand gesture recognition into a digital whiteb
 Software Engineer | AI & Machine Learning Enthusiast  
 
 📧 Email: tanishq24.rawat@gmail.com  
-🔗 GitHub: https://github.com/your-username  
+🔗 GitHub: https://github.com/TaniRawat 
 
 ---
 
